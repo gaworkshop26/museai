@@ -1,0 +1,10 @@
+streamlit==1.42.0
+torch==2.6.0
+torchvision==0.21.0
+opencv-python==4.11.0.86
+pillow==11.1.0
+numpy==2.2.2
+pandas==2.2.3
+fvcore==0.1.5.post20221221
+yacs==0.1.8
+ultralytics==8.4.14
